@@ -1,3 +1,3 @@
-Varnish & backends
+Varnish & backends Load Balancing
 =====================
 
